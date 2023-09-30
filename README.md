@@ -1,2 +1,11 @@
 # mensajes-carlos
-Ejercicio de la escuela de npm 
+Messages to be used on the first time you make a commit in git.  
+
+# Install
+
+npm
+npm instal -g mensajes-carlos
+
+# Usage
+bash
+mensajes-carlos
